@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 639: hbox expects a non-empty block.
+    hbox:
+         ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Tue Mar 31 05:22:57 2020
